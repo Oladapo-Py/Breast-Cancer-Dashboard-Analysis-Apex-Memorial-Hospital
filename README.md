@@ -1,3 +1,4 @@
+![Annotation 2025-04-13 042944](https://github.com/user-attachments/assets/3a359779-3dcf-43bd-bbaa-87e79b4061bb)
 # Breast-Cancer-Dashboard-Analysis-Apex-Memorial-Hospital
 This project presents a detailed visual analysis of breast cancer patient data from Apex Memorial Hospital. Using an interactive dashboard, we uncover key trends in tumor stages, surgical interventions, survival outcomes, and patient demographics.
 ## 🔍 Key Features:
