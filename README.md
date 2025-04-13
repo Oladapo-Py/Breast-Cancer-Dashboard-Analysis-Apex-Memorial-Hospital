@@ -6,3 +6,9 @@ This project presents a detailed visual analysis of breast cancer patient data f
 3. Gender and age group analysis to identify high-risk populations
 4. Correlation between age and tumor stages
 5. Monthly average age tracking to spot seasonal diagnosis patterns
+
+##🎯 Project Objectives:
+1. Identify which patient groups are most affected by late-stage diagnosis
+2. Evaluate the relationship between age, tumor stage, and survival
+3. Support clinical decision-making through data visualization
+4. Highlight disparities in diagnosis and treatment for targeted interventions
