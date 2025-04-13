@@ -23,3 +23,8 @@ This project presents a detailed visual analysis of breast cancer patient data f
 2. Lumpectomies are common for early-stage cancers, while Modified Radical Mastectomies dominate later stages.
 3. Consistent survival rates across months, with November showing a spike in mortality.
 4. Vast majority of patients are female (98%), reinforcing the gender gap in breast cancer occurrence and data availability.
+
+## 📌 Recommendations:
+1. Boost early detection efforts in midlife patients.
+2. Increase awareness campaigns for male breast cancer.
+3. Investigate seasonal influences on mortality and diagnosis rates.
