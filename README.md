@@ -14,6 +14,6 @@ This project presents a detailed visual analysis of breast cancer patient data f
 4. Highlight disparities in diagnosis and treatment for targeted interventions
 
 ## ✅ Tools Used:
-Excel
-Pivot Table
-Interactive Dashboards & Custom Visuals
+1. Excel
+2. Pivot Table
+3. Interactive Dashboards & Custom Visuals
