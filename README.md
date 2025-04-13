@@ -17,3 +17,9 @@ This project presents a detailed visual analysis of breast cancer patient data f
 1. Excel
 2. Pivot Table
 3. Interactive Dashboards & Custom Visuals
+
+## 📈 Insights & Impact:
+1. Most patients fall within the 40–60 age group, which also shows the highest rate of advanced-stage tumors.
+2. Lumpectomies are common for early-stage cancers, while Modified Radical Mastectomies dominate later stages.
+3. Consistent survival rates across months, with November showing a spike in mortality.
+4. Vast majority of patients are female (98%), reinforcing the gender gap in breast cancer occurrence and data availability.
