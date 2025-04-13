@@ -13,6 +13,13 @@ This project presents a detailed visual analysis of breast cancer patient data f
 3. Support clinical decision-making through data visualization
 4. Highlight disparities in diagnosis and treatment for targeted interventions
 
+## ⚠️ Challenges & Limitations
+1. Limited Dataset: With only 334 patient records, the dataset lacks the depth for broader generalization or longitudinal analysis.
+2. High Volume of Missing Data: Several fields contain null or incomplete values, reducing the strength of certain insights and requiring cautious interpretation.
+3. Lack of Clinical Variables: Absence of data like treatment type, hormone receptor status, or genetic factors limits the clinical depth of the analysis.
+
+
+
 ## ✅ Tools Used:
 1. Excel
 2. Pivot Table
